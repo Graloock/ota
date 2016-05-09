@@ -1,0 +1,16 @@
+{
+ "id": null,
+ "result": [
+{
+    "url": "$link",
+    "timestamp": "1458498723",
+    "api_level": "23",
+    "md5sum": "$md5",
+    "filename": "$zipname",
+    "channel": "NIGHTLY",
+    "changes": "https://raw.githubusercontent.com/mrwigleg/API_CMOTA/master/CHANGELOG",
+    "incremental": "$incremintalname"
+    },
+  ],
+ "error": null
+}
