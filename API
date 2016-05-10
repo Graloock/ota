@@ -6,7 +6,7 @@
     "timestamp": "1462714311",
     "api_level": "23",
     "md5sum": "04e7d46b3fc1f33aeafdb0bda840eaf7",
-    "filename": "Temasek_MM_A3300HV_20160510_test.zip",
+    "filename": "Temasek_MM_A3300HV_20160510.zip",
     "channel": "NIGHTLY",
     "changes": "https://raw.githubusercontent.com/mrwigleg/API_CMOTA/master/CHANGELOG",
     "incremental": "ea06dc7406"
