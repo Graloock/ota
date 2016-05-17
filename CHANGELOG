@@ -1,17 +1,3 @@
 <!-- Log 2016-05-15 -->
-Sound Fix (Third attempt)
-Deleted Dublicated apps
-CyanogenSetupWizard restored (Because Bootloop after wipe)
-
-<!-- Log 2016-05-12 -->
-DOLBY crash fixed
-Sound partially fixed
-OTA working much better
-
-<!-- Log 2016-05-10 -->
-GApps Mini Inside
-DOLBY Inside
-AudioFX removed
-CyanogenSetupWizard removed
-Trebuchet removed
-Sound fix
+"Floating" sound fixed
+Bluetooth crash fixed
