@@ -2,14 +2,14 @@
  "id": null,
  "result": [
 {
-    "url": "https://de1.androidfilehost.com/dl/pW8-DQGQt916qIkiBVbxGQ/1463743927/24533103863141184/Temasek_MM_A3300HV_20160517.zip",
-    "timestamp": "1463476109",
+    "url": "https://de1.androidfilehost.com/dl/PLovz0XsQNmHu6YCppWpEg/1464060575/24533103863142268/Temasek_MM_A3300HV_20160521.zip",
+    "timestamp": "1463820271",
     "api_level": "23",
-    "md5sum": "e10ce614d62ec3dd52b1d4f50f8b8164",
-    "filename": "Temasek_MM_A3300HV_20160517.zip",
+    "md5sum": "ba26c3ef1d2bcbb2656589c0a8190a9d",
+    "filename": "Temasek_MM_A3300HV_20160521.zip",
     "channel": "NIGHTLY",
     "changes": "https://raw.githubusercontent.com/mrwigleg/API_CMOTA/master/CHANGELOG",
-    "incremental": "6320e37d5a"
+    "incremental": "5b111defd6"
     },
   ],
  "error": null
