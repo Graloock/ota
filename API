@@ -8,7 +8,7 @@
     "md5sum": "ba26c3ef1d2bcbb2656589c0a8190a9d",
     "filename": "Temasek_MM_A3300HV_20160521.zip",
     "channel": "NIGHTLY",
-    "changes": "https://raw.githubusercontent.com/mrwigleg/API_CMOTA/master/CHANGELOG",
+    "changes": "https://raw.githubusercontent.com/mrwigleg/CyanogenMod_OTA/master/CHANGELOG",
     "incremental": "5b111defd6"
     },
   ],
