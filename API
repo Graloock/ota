@@ -2,14 +2,14 @@
  "id": null,
  "result": [
 {
-    "url": "https://de1.androidfilehost.com/dl/71-qwcg5_sAwINZRbKYlpg/1473411718/24591000424963387/cm_A3300-ota-fe8dbb6e82.zip",
-    "timestamp": "1473167209",
+    "url": "https://de1.androidfilehost.com/dl/Ak-R_fcXyCJrDS4q2cjRTQ/1473424071/24591000424963483/cm_A3300-ota-d21af9aa17.zip",
+    "timestamp": "1473187431",
     "api_level": "23",
-    "md5sum": "724d668337baf24f7bc4e83e448c7abc",
-    "filename": "cm_A3300-ota-fe8dbb6e82.zip",
+    "md5sum": "48526fa48dcdddbbdc7f3b0e33966dff",
+    "filename": "cm_A3300-ota-d21af9aa17.zip",
     "channel": "NIGHTLY",
     "changes": "https://raw.githubusercontent.com/mrwigleg/CyanogenMod_OTA/master/CHANGELOG",
-    "incremental": "fe8dbb6e82"
+    "incremental": "d21af9aa17"
     },
   ],
  "error": null
