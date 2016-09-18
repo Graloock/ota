@@ -1,19 +1,24 @@
-* 2016.09.12 - 9d5b8010b3
+* 2016.09.18
+ SimCard's name fixed;
+ Last Sources;
+ "../packages/apps/CMUpdater" updated.
+
+* 2016.09.12
  GPS fixed;
  Last Sources.
 
-* 2016.09.10 - 2f337034bf
+* 2016.09.10
  Recording fixed;
  Screencast deleted;
  Last Sources.
 
-* 2016.09.09 - be70062d5e
+* 2016.09.09
  Updated Vendor;
  Bluetooth fixed;
  Codecs fixed;
  Flashlight deleted;
  Last Sources.
 
-* 2016.09.07 - e03ed1271a
+* 2016.09.07
  Trying to fix Codecs.
  
