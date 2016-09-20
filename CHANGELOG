@@ -1,7 +1,14 @@
+* 2016.09.19
+ "../packages/apps/Browser" deleted;
+ "../packages/apps/CMUpdater" updated.
+ "../packages/apps/Gello" added;
+ "../packages/apps/Snap" deleted;
+ "../packages/apps/Camera2" added.
+ Last Sources.
+
 * 2016.09.18
  SimCard's name fixed;
  Last Sources;
- "../packages/apps/CMUpdater" updated.
 
 * 2016.09.12
  GPS fixed;
